@@ -14,7 +14,7 @@ Contains core introduction and general usage of MingCute Icon library:
 ### 2. [React Guide](readme/React_README.md)
 > **Audience**: React Developers
 
-Dedicated documentation for the `@mingcute/react` component library:
+Dedicated documentation for the [`@mingcute/react`](https://www.npmjs.com/package/@mingcute/react) component library:
 - **Installation**: Install React package using npm/yarn/pnpm.
 - **Basic Usage**: How to import icons as components (`<MingcuteFill />`).
 - **Props Configuration**: Setting properties like `size`, `color`, etc.
@@ -22,7 +22,7 @@ Dedicated documentation for the `@mingcute/react` component library:
 ### 3. [Vue Guide](readme/Vue_README.md)
 > **Audience**: Vue Developers
 
-Dedicated documentation for the `@mingcute/vue` component library:
+Dedicated documentation for the [`@mingcute/vue`](https://www.npmjs.com/package/@mingcute/vue) component library:
 - **Installation**: Install Vue package using npm/yarn/pnpm.
 - **Basic Usage**: Using icon components in Vue templates.
 - **Configuration & Customization**: Methods for customizing color and size.
@@ -32,7 +32,7 @@ Dedicated documentation for the `@mingcute/vue` component library:
 ## Official Resources
 
 - **Official Website**: [https://www.mingcute.com/](https://www.mingcute.com/)
-- **GitHub Repository**: [https://github.com/Richard9394/MingCute](https://github.com/mingcute-design/mingcute-icons)
+- **GitHub Repository**: [https://github.com/mingcute-design/mingcute-icons](https://github.com/mingcute-design/mingcute-icons)
 - **Figma Plugin**: [MingCute Icon Plugin](https://www.figma.com/community/plugin/1306884809438005528/mingcute-icon)
 
 ## License

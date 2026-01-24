@@ -49,7 +49,7 @@ Copy the font files from  `/fonts` and import the `mingcute.css` file. Add icon 
 
 ## React
 
-Import icons as standard React components  through [`@mingcute/react`](https://www.npmjs.com/package/@mingcute/react) package.. All icons accept `size` and `color` props.
+Import icons as standard React components through [`@mingcute/react`](https://www.npmjs.com/package/@mingcute/react) package. All icons accept `size` and `color` props.
 
 ```TypeScript
 import { MingcuteFill, Home1Line, SearchLine } from '@mingcute/react';
@@ -71,6 +71,31 @@ function App() {
 ```
 
 For more details, see the [documentation](React_README.md).
+
+## Vue
+
+Import icons as standard Vue components through [`@mingcute/vue`](https://www.npmjs.com/package/@mingcute/vue) package. All icons accept `size` and `color` props.
+
+```TypeScript
+<template>
+  <div>
+    {/* Default: 24px size and currentColor */}
+    <MingcuteFill />
+
+    {/* Custom size and color */}
+    <Home1Line size={32} color="#007AFF" />
+
+    {/* Inherits standard SVG props */}
+    <SearchLine opacity={0.5} />
+  </div>
+</template>
+
+<script setup>
+import { MingcuteFill, Home1Line, SearchLine } from '@mingcute/vue';
+</script>
+```
+
+For more details, see the [documentation](Vue_README.md).
 
 ## Figma Plug
 
