@@ -2,7 +2,7 @@
 
 This repository contains detailed documentation for the MingCute Icon library. To make it easier to consult, we have categorized the documentation by usage. Here are the links to the guides for each part:
 
-### 1. [General Guide](readme/MingCute_README.md)
+### 1. [General Guide](readme/mingcute/README.md)
 > **Audience**: All users (Web Developers, Designers)
 
 Contains core introduction and general usage of MingCute Icon library:
@@ -11,7 +11,7 @@ Contains core introduction and general usage of MingCute Icon library:
 - **SVG/PNG Download**: How to get resources from the official website.
 - **Figma Plugin**: How designers can use it in Figma.
 
-### 2. [React Guide](readme/React_README.md)
+### 2. [React Guide](readme/react/README.md)
 > **Audience**: React Developers
 
 Dedicated documentation for the [`@mingcute/react`](https://www.npmjs.com/package/@mingcute/react) component library:
@@ -19,7 +19,7 @@ Dedicated documentation for the [`@mingcute/react`](https://www.npmjs.com/packag
 - **Basic Usage**: How to import icons as components (`<MingcuteFill />`).
 - **Props Configuration**: Setting properties like `size`, `color`, etc.
 
-### 3. [Vue Guide](readme/Vue_README.md)
+### 3. [Vue Guide](readme/vue/README.md)
 > **Audience**: Vue Developers
 
 Dedicated documentation for the [`@mingcute/vue`](https://www.npmjs.com/package/@mingcute/vue) component library:
