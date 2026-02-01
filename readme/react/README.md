@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.mingcute.com/">
-    <img src="../../images/mingcute_react.png" alt="MingCute icon library for React applications.">
+    <img src="https://raw.githubusercontent.com/mingcute-design/mingcute-docs/main/images/mingcute_react.png" alt="MingCute icon library for React applications.">
   </a>
 </p>
 

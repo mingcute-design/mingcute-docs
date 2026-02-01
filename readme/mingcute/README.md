@@ -1,4 +1,4 @@
-[![image](../../images/MingCute_cover.png "MingCute Icon")](https://www.mingcute.com/)
+[![image](https://raw.githubusercontent.com/mingcute-design/mingcute-docs/main/images/MingCute_cover.png "MingCute Icon")](https://www.mingcute.com/)
 [![npm](https://img.shields.io/npm/v/mingcute_icon.svg?labelColor=4A4A4A&color=007AFF&style=shield)](https://www.npmjs.com/package/mingcute_icon)
 [![stars](https://img.shields.io/github/stars/Richard9394/MingCute.svg?labelColor=4A4A4A&color=FE7D37&style=shield)](https://github.com/Richard9394/MingCute/stargazers)
 [![downloads](https://img.shields.io/npm/dt/mingcute_icon.svg?labelColor=4A4A4A&color=23AF5F&style=shield)](https://www.npmjs.com/package/mingcute_icon)
@@ -99,7 +99,7 @@ For more details, see the [documentation](Vue_README.md).
 
 ## Figma Plug
 
-[![image](../images/figmaplug.png "MingCute Figma Plug")](https://www.figma.com/community/plugin/1306884809438005528/mingcute-icon)
+[![image](https://raw.githubusercontent.com/mingcute-design/mingcute-docs/main/images/figmaplug.png "MingCute Figma Plug")](https://www.figma.com/community/plugin/1306884809438005528/mingcute-icon)
 
 [MingCute Icons Figma plugin](https://www.figma.com/community/plugin/1306884809438005528/mingcute-icon)
 
@@ -111,7 +111,7 @@ For more details, see the [documentation](Vue_README.md).
 - [MGC Animation icons ](https://www.mingcute.com/animation)- 120+ lively and smooth animated icons
 
 ## Preview
-![image](../images/MingCute_icon.png "MingCute Icon")
+![image](https://raw.githubusercontent.com/mingcute-design/mingcute-docs/main/images/MingCute_icon.png "MingCute Icon")
 
 ## License
 MingCute icon is available under [Apache-2.0 License](https://github.com/mingcute-design/mingcute-icons/blob/main/LICENSE). Feel free to use the set in both personal and commercial projects. Attribution is much appreciated but not required. The only thing we ask is that these icons are not for sale.
