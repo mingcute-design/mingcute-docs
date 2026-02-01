@@ -1,4 +1,4 @@
-[![image](../images/MingCute_cover.png "MingCute Icon")](https://www.mingcute.com/)
+[![image](../../images/MingCute_cover.png "MingCute Icon")](https://www.mingcute.com/)
 [![npm](https://img.shields.io/npm/v/mingcute_icon.svg?labelColor=4A4A4A&color=007AFF&style=shield)](https://www.npmjs.com/package/mingcute_icon)
 [![stars](https://img.shields.io/github/stars/Richard9394/MingCute.svg?labelColor=4A4A4A&color=FE7D37&style=shield)](https://github.com/Richard9394/MingCute/stargazers)
 [![downloads](https://img.shields.io/npm/dt/mingcute_icon.svg?labelColor=4A4A4A&color=23AF5F&style=shield)](https://www.npmjs.com/package/mingcute_icon)

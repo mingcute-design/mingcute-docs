@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.mingcute.com/">
-    <img src="../images/mingcute_vue.png" alt="MingCute icon library for Vue applications.">
+    <img src="../../images/mingcute_vue.png" alt="MingCute icon library for Vue applications.">
   </a>
 </p>
 
